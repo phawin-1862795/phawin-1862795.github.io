@@ -1,0 +1,42 @@
+/*
+    Colors are from https://www.washington.edu/brand/graphic-elements/primary-color-palette/
+*/
+
+.form-control-custom {
+    width: fit-content;
+    display: inline;
+}
+
+.original-work {
+    font-family: Encode Sans;
+    border: 4px solid #e8e3d3;
+    border-bottom-right-radius: 50px;
+    background-color: #d9d9d9;
+}
+
+.original-work-fieldset {
+    padding: 20px;
+}
+
+.original-work legend {
+    padding-top: 20px;
+    font-weight: 800;
+    color: #4b2e83;
+    border-color: #85754d;
+    border-width: 3px;
+}
+
+.original-work .form-group {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.original-work-btn {
+    background-color: #4b2e83;
+    border-color: #4b2e83;
+}
+
+.original-work-btn:hover {
+    background-color: #85754d;
+    border-color: #85754d;
+}
